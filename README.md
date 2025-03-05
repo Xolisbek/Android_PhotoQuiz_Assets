@@ -3,7 +3,7 @@
 ### 📱 About App
 > Choose the English word for the animal in the picture from the given options
 > 
-> Technical: XML,Java,MediaPlayer,SharedPreference,Progressbar
+> Technical: XML, Java, MediaPlayer, SharedPreference, Progressbar
 
 
 ### 📥 Download Apk
