@@ -1,0 +1,1 @@
+# Android_PhotoQuiz_Assets
